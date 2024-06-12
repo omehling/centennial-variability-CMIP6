@@ -1,0 +1,11 @@
+﻿model_id;lat_name;lon_name;lev_name;lon360;area_path;so_path
+HadGEM3-GC31-LL;latitude;longitude;lev;0;MOHC/HadGEM3-GC31-LL/piControl/r1i1p1f1/Ofx/areacello/gn/v20190709/areacello_Ofx_HadGEM3-GC31-LL_piControl_r1i1p1f1_gn.nc;MOHC/HadGEM3-GC31-LL/piControl/r1i1p1f1/Omon/so/gn/v20211103/
+IPSL-CM6A-LR;nav_lat;nav_lon;olevel;0;IPSL/IPSL-CM6A-LR/piControl/r1i1p1f1/Ofx/areacello/gn/v20200326/areacello_Ofx_IPSL-CM6A-LR_piControl_r1i1p1f1_gn.nc;IPSL/IPSL-CM6A-LR/piControl/r1i1p1f1/Omon/so/gn/v20200326/
+UKESM1-0-LL;latitude;longitude;lev;0;MOHC/UKESM1-0-LL/piControl/r1i1p1f2/Ofx/areacello/gn/v20190705/areacello_Ofx_UKESM1-0-LL_piControl_r1i1p1f2_gn.nc;MOHC/UKESM1-0-LL/piControl/r1i1p1f2/Omon/so/gn/v20190827/
+EC-Earth3;latitude;longitude;lev;1;EC-Earth-Consortium/EC-Earth3/piControl/r1i1p1f1/Ofx/areacello/gn/v20200918/areacello_Ofx_EC-Earth3_piControl_r1i1p1f1_gn.nc;EC-Earth-Consortium/EC-Earth3/piControl/r2i1p1f1/Omon/so/gn/v20210601/
+CESM2;lat;lon;lev;1;NCAR/CESM2/piControl/r1i1p1f1/Ofx/areacello/gr/v20190320/areacello_Ofx_CESM2_piControl_r1i1p1f1_gr.nc;NCAR/CESM2/piControl/r1i1p1f1/Omon/so/gr/v20190320/
+CanESM5_p1;latitude;longitude;lev;1;CCCma/CanESM5/piControl/r1i1p1f1/Ofx/areacello/gn/v20190429/areacello_Ofx_CanESM5_piControl_r1i1p1f1_gn.nc;CCCma/CanESM5/piControl/r1i1p1f1/Omon/so/gn/v20190429/
+CanESM5_p2;latitude;longitude;lev;1;CCCma/CanESM5/piControl/r1i1p2f1/Ofx/areacello/gn/v20190429/areacello_Ofx_CanESM5_piControl_r1i1p2f1_gn.nc;CCCma/CanESM5/piControl/r1i1p2f1/Omon/so/gn/v20190429/
+MPI-ESM1-2-LR;latitude;longitude;lev;1;MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Ofx/areacello/gn/v20190710/areacello_Ofx_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn.nc;MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Omon/so/gn/v20190710/
+MPI-ESM-1-2-HAM;latitude;longitude;lev;1;HAMMOZ-Consortium/MPI-ESM-1-2-HAM/piControl/r1i1p1f1/Ofx/areacello/gn/v20200120/areacello_Ofx_MPI-ESM-1-2-HAM_piControl_r1i1p1f1_gn.nc;HAMMOZ-Consortium/MPI-ESM-1-2-HAM/piControl/r1i1p1f1/Omon/so/gn/v20200120/
+ACCESS-ESM1-5;latitude;longitude;lev;1;CSIRO/ACCESS-ESM1-5/piControl/r1i1p1f1/Ofx/areacello/gn/v20210316/areacello_Ofx_ACCESS-ESM1-5_piControl_r1i1p1f1_gn.nc;CSIRO/ACCESS-ESM1-5/piControl/r1i1p1f1/Omon/so/gn/v20210316/
