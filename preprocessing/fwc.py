@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import xarray as xr
 import matplotlib.pyplot as plt
-import cartopy.crs as ccrs
 import numpy as np
 import pandas as pd
 import regionmask
